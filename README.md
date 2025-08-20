@@ -13,6 +13,7 @@ Este projeto é uma aplicação que simula um sistema de locação de veiculos c
 - Mapper
 - Repository
 - Factory
+- Builder
 
 ## Funcionalidades
 - Cadastro e mantenimento de Clientes.
