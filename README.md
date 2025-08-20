@@ -3,7 +3,7 @@
 ## Descrição
 Este projeto é uma aplicação que simula um sistema de locação de veiculos com o intuito de utilizar os conceitos de arquitetura de software aprendidos na disciplina Engenharia de Software 1
 
-## Conceitos abordados
+## Conceitos utilizados
 - Model
 - View
 - Controller
